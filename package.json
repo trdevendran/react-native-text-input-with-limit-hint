@@ -37,7 +37,10 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "text-input",
+    "custom-text-input",
+    "limit", "hint", "count", "text-count", "LimitedTextInput"
   ],
   "repository": {
     "type": "git",
