@@ -2,6 +2,7 @@
 
 This is a React-Native TextInput component, containing a hint text to below of the [TextInput](https://reactnative.dev/docs/textinput) and the hint provides three type of count such as maximum count as limit, entered text count, and available text count.
 
+<img src="https://github.com/trdevendran/react-native-text-input-with-limit-hint/assets/12223179/000480f4-d4ba-4d62-811b-5264b89eb0e2" alt="drawing" style="width:380px;height:720px" />
 ## Installation
 
 ```sh
